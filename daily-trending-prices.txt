@@ -1,0 +1,7 @@
+2025-04-28 Trending Top 5 Cryptocurrencies 
+       Date Symbol Price (USD) 24h Change (%)
+2025-04-28    BTC    94491.45          0.52%
+2025-04-28    XRP        2.29          2.33%
+2025-04-28    SUI        3.60          0.85%
+2025-04-28    SOL      147.43          1.08%
+2025-04-28    ETH     1784.99          0.71%
