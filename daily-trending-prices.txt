@@ -1,7 +1,7 @@
 2025-04-29 Trending Top 5 Cryptocurrencies 
-       Date Symbol Price (USD) 24h Change (%)
-2025-04-29    ETH     1816.30          1.14%
-2025-04-29    BTC    94896.31          0.09%
-2025-04-29   SIGN      0.1008         22.52%
-2025-04-29     PI      0.5788          4.96%
-2025-04-29 HAEDAL      0.1152         31.62%
+       Date                   Name Symbol Price (USD) 24h Change (%)
+2025-04-29           Ethereum1ETH    ETH     1817.32         +1.28%
+2025-04-29            Bitcoin2BTC    BTC    94825.40         +0.45%
+2025-04-29              Sign3SIGN   SIGN        0.10        +22.74%
+2025-04-29                  Pi4PI     PI        0.58         -5.05%
+2025-04-29 Haedal Protocol5HAEDAL HAEDAL        0.11        -32.39%
