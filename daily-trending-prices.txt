@@ -1,7 +1,7 @@
-2025-05-01 Trending Top 5 Cryptocurrencies 
-       Date                      Name  Symbol Price (USD) 24h Change (%)
-2025-05-01 Virtuals Protocol1VIRTUAL VIRTUAL        1.75         39.80%
-2025-05-01                 Beam2BEAM    BEAM        0.01         24.19%
-2025-05-01             Worldcoin3WLD     WLD        1.08          3.13%
-2025-05-01              Stella4ALPHA   ALPHA        0.04         32.61%
-2025-05-01                     Pi5PI      PI        0.61          6.01%
+2025-05-02 Trending Top 5 Cryptocurrencies 
+       Date          Name Symbol Price (USD) 24h Change (%)
+2025-05-02 AskNoel1$NOEL  $NOEL        0.00          7.94%
+2025-05-02   Bitcoin2BTC    BTC    97085.11          0.73%
+2025-05-02 Movement3MOVE   MOVE        0.20        -20.44%
+2025-05-02   WEMIX4WEMIX  WEMIX        0.38        -48.29%
+2025-05-02   Turbo5TURBO  TURBO        0.01         26.74%
