@@ -1,7 +1,7 @@
-2025-05-06 Trending Top 5 Cryptocurrencies 
-       Date                            Name Symbol Price (USD) 24h Change (%)
-2025-05-06              Common Wealth1WLTH   WLTH        0.01         65.26%
-2025-05-06                   Solayer2LAYER  LAYER        1.84        -40.83%
-2025-05-06          Haedal Protocol3HAEDAL HAEDAL        0.17         13.91%
-2025-05-06                   Movement4MOVE   MOVE        0.18          8.40%
-2025-05-06 Alpine F1 Team Fan Token5ALPINE ALPINE        1.20         55.50%
+2025-05-07 Trending Top 5 Cryptocurrencies 
+       Date                  Name Symbol Price (USD) 24h Change (%)
+2025-05-07           Bitcoin1BTC    BTC    96987.49          3.22%
+2025-05-07          Litecoin2LTC    LTC       90.32         10.26%
+2025-05-07           KAITO3KAITO  KAITO        1.36         60.75%
+2025-05-07             Obol4OBOL   OBOL        0.33        -20.46%
+2025-05-07 Alpaca Finance5ALPACA ALPACA        0.27         62.75%
