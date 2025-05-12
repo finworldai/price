@@ -1,7 +1,7 @@
-2025-05-11 Trending Top 5 Cryptocurrencies 
-       Date           Name Symbol Price (USD) 24h Change (%)
-2025-05-11          Pi1PI     PI        1.18         63.32%
-2025-05-11   Ethereum2ETH    ETH     2516.38          4.51%
-2025-05-11    Bitcoin3BTC    BTC   104616.71          0.93%
-2025-05-11 ether.fi4ETHFI  ETHFI        1.09         42.17%
-2025-05-11   Arbitrum5ARB    ARB        0.46         14.32%
+2025-05-12 Trending Top 5 Cryptocurrencies 
+       Date                              Name  Symbol Price (USD) 24h Change (%)
+2025-05-12                             Pi1PI      PI        1.29          9.76%
+2025-05-12                       Bitcoin2BTC     BTC   104045.65         -0.65%
+2025-05-12                         Pepe3PEPE    PEPE        0.00          7.92%
+2025-05-12                     dogwifhat4WIF     WIF        1.21         31.79%
+2025-05-12 Moo Deng (moodengsol.com)5MOODENG MOODENG        0.25         38.36%
