@@ -1,7 +1,7 @@
-2025-05-13 Trending Top 5 Cryptocurrencies 
-       Date                                  Name Symbol Price (USD) 24h Change (%)
-2025-05-13                           Bitcoin1BTC    BTC   103690.96         -0.18%
-2025-05-13                           Degen2DEGEN  DEGEN        0.01         75.50%
-2025-05-13                         Redacted3RDAC   RDAC        0.04        -42.36%
-2025-05-13                               XRP4XRP    XRP        2.54         -1.13%
-2025-05-13 Neiro (First Neiro On Ethereum)5NEIRO  NEIRO        0.00         42.70%
+2025-05-14 Trending Top 5 Cryptocurrencies 
+       Date                          Name Symbol Price (USD) 24h Change (%)
+2025-05-14        ConstitutionDAO1PEOPLE PEOPLE        0.04         50.12%
+2025-05-14                ether.fi2ETHFI  ETHFI        1.34         23.38%
+2025-05-14 Green Satoshi Token (SOL)3GST    GST        0.01         53.22%
+2025-05-14                  Ethereum4ETH    ETH     2610.69          3.42%
+2025-05-14                         Pi5PI     PI        1.20          7.50%
