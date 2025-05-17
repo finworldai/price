@@ -1,7 +1,7 @@
-2025-05-16 Trending Top 5 Cryptocurrencies 
-       Date         Name Symbol Price (USD) 24h Change (%)
-2025-05-16  Bitcoin1BTC    BTC   103656.79          1.08%
-2025-05-16    FIFA2FIFA   FIFA        0.05         63.68%
-2025-05-16 Onyxcoin3XCN    XCN        0.02         15.30%
-2025-05-16      XRP4XRP    XRP        2.43         -1.86%
-2025-05-16 Ethereum5ETH    ETH     2602.10          2.01%
+2025-05-17 Trending Top 5 Cryptocurrencies 
+       Date                                      Name  Symbol Price (USD) 24h Change (%)
+2025-05-17 Kekius Maximus (kekiusmaximus.vip)1KEKIUS  KEKIUS        0.05         89.80%
+2025-05-17                     Alpaca Finance2ALPACA  ALPACA        0.20         12.82%
+2025-05-17                            Fitted3FITCOIN FITCOIN        0.01         28.41%
+2025-05-17                             Portal4PORTAL  PORTAL        0.07         23.37%
+2025-05-17                       BSquared Network5B2      B2        0.68          1.64%
