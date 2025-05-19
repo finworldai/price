@@ -1,7 +1,7 @@
-2025-05-18 Trending Top 5 Cryptocurrencies 
-       Date                                  Name  Symbol Price (USD) 24h Change (%)
-2025-05-18     Moo Deng (moodengsol.com)1MOODENG MOODENG        0.26         44.46%
-2025-05-18                    Jager Hunter2JAGER   JAGER        0.09          5.02%
-2025-05-18                           Degen3DEGEN   DEGEN        0.01         27.96%
-2025-05-18 Neiro (First Neiro On Ethereum)4NEIRO   NEIRO        0.00         16.57%
-2025-05-18                 Goatseus Maximus5GOAT    GOAT        0.17         22.29%
+2025-05-19 Trending Top 5 Cryptocurrencies 
+       Date         Name Symbol Price (USD) 24h Change (%)
+2025-05-19  Bitcoin1BTC    BTC   102334.51         -1.54%
+2025-05-19 Ethereum2ETH    ETH     2392.10         -4.62%
+2025-05-19   Solana3SOL    SOL      160.43         -6.46%
+2025-05-19 NEXPACE4NXPC   NXPC        1.90        -15.44%
+2025-05-19      XRP5XRP    XRP        2.30         -3.91%
