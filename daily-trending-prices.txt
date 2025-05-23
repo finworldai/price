@@ -1,7 +1,7 @@
-2025-05-22 Trending Top 5 Cryptocurrencies 
-       Date         Name Symbol Price (USD) 24h Change (%)
-2025-05-22    Core1CORE   CORE        0.84         11.26%
-2025-05-22 Ethereum2ETH    ETH     2658.31          4.71%
-2025-05-22  Bitcoin3BTC    BTC   111551.59          4.72%
-2025-05-22      Sui4SUI    SUI        3.95          1.29%
-2025-05-22   Solana5SOL    SOL      178.68          5.54%
+2025-05-23 Trending Top 5 Cryptocurrencies 
+       Date                                      Name  Symbol Price (USD) 24h Change (%)
+2025-05-23                                 SOON1SOON    SOON        0.56         20.22%
+2025-05-23         Moo Deng (moodengsol.com)2MOODENG MOODENG        0.27          6.19%
+2025-05-23                          KernelDAO3KERNEL  KERNEL        0.18          4.32%
+2025-05-23 Artificial Superintelligence Alliance4FET     FET        0.91          9.14%
+2025-05-23                              NEXPACE5NXPC    NXPC        1.96          7.31%
