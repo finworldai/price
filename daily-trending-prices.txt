@@ -1,7 +1,7 @@
-2025-05-25 Trending Top 5 Cryptocurrencies 
-       Date                Name Symbol Price (USD) 24h Change (%)
-2025-05-25           BUILDon1B      B        0.28        -13.92%
-2025-05-25 BSquared Network2B2     B2        0.65          2.14%
-2025-05-25          Biswap3BSW    BSW        0.03          4.18%
-2025-05-25   Mask Network4MASK   MASK        1.70        -20.09%
-2025-05-25   Alchemist AI5ALCH   ALCH        0.14          4.22%
+2025-05-26 Trending Top 5 Cryptocurrencies 
+       Date                      Name  Symbol Price (USD) 24h Change (%)
+2025-05-26               Bitcoin1BTC     BTC   109881.09          2.24%
+2025-05-26              Ethereum2ETH     ETH     2568.76          2.16%
+2025-05-26                 Pepe3PEPE    PEPE        0.00          6.67%
+2025-05-26 Virtuals Protocol4VIRTUAL VIRTUAL        2.21         14.74%
+2025-05-26         Cookie DAO5COOKIE  COOKIE        0.29         -0.22%
