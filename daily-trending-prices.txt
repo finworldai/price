@@ -1,7 +1,7 @@
-2025-05-29 Trending Top 5 Cryptocurrencies 
-       Date         Name Symbol Price (USD) 24h Change (%)
-2025-05-29 Stella1ALPHA  ALPHA        0.03         -4.19%
-2025-05-29 Ethereum2ETH    ETH     2693.81          0.95%
-2025-05-29  Bitcoin3BTC    BTC   108516.27         -0.32%
-2025-05-29    Pepe4PEPE   PEPE        0.00          1.21%
-2025-05-29  Sophon5SOPH   SOPH        0.06        -33.57%
+2025-05-30 Trending Top 5 Cryptocurrencies 
+       Date                Name Symbol Price (USD) 24h Change (%)
+2025-05-30      EAGLEBUILDER1E      E        0.00        -60.42%
+2025-05-30        Livepeer2LPT    LPT       13.00        134.28%
+2025-05-30        Suilend3SEND   SEND        0.83         -4.93%
+2025-05-30 Pocket Network4POKT   POKT        0.09        584.40%
+2025-05-30         Bitcoin5BTC    BTC   105794.60         -2.58%
