@@ -1,7 +1,7 @@
-2025-05-30 Trending Top 5 Cryptocurrencies 
+2025-05-31 Trending Top 5 Cryptocurrencies 
        Date                Name Symbol Price (USD) 24h Change (%)
-2025-05-30      EAGLEBUILDER1E      E        0.00        -60.42%
-2025-05-30        Livepeer2LPT    LPT       13.00        134.28%
-2025-05-30        Suilend3SEND   SEND        0.83         -4.93%
-2025-05-30 Pocket Network4POKT   POKT        0.09        584.40%
-2025-05-30         Bitcoin5BTC    BTC   105794.60         -2.58%
+2025-05-31        Livepeer1LPT    LPT       10.25        -20.82%
+2025-05-31            Test2TST    TST        0.04        -32.59%
+2025-05-31  Solv Protocol3SOLV   SOLV        0.04         -1.19%
+2025-05-31 Pocket Network4POKT   POKT        0.08        -12.33%
+2025-05-31         Sophon5SOPH   SOPH        0.05         -3.77%
