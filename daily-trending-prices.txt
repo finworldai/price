@@ -1,7 +1,7 @@
-2025-05-31 Trending Top 5 Cryptocurrencies 
-       Date                Name Symbol Price (USD) 24h Change (%)
-2025-05-31        Livepeer1LPT    LPT       10.25        -20.82%
-2025-05-31            Test2TST    TST        0.04        -32.59%
-2025-05-31  Solv Protocol3SOLV   SOLV        0.04         -1.19%
-2025-05-31 Pocket Network4POKT   POKT        0.08        -12.33%
-2025-05-31         Sophon5SOPH   SOPH        0.05         -3.77%
+2025-06-01 Trending Top 5 Cryptocurrencies 
+       Date                              Name Symbol Price (USD) 24h Change (%)
+2025-06-01 Paris Saint-Germain Fan Token1PSG    PSG        1.99        -11.01%
+2025-06-01                    FLock.io2FLOCK  FLOCK        0.20         73.02%
+2025-06-01                       Xterio3XTER   XTER        0.25         11.13%
+2025-06-01                      Tutorial4TUT    TUT        0.03         16.89%
+2025-06-01                       Horizen5ZEN    ZEN       10.03         18.15%
