@@ -1,7 +1,7 @@
-2025-06-01 Trending Top 5 Cryptocurrencies 
-       Date                              Name Symbol Price (USD) 24h Change (%)
-2025-06-01 Paris Saint-Germain Fan Token1PSG    PSG        1.99        -11.01%
-2025-06-01                    FLock.io2FLOCK  FLOCK        0.20         73.02%
-2025-06-01                       Xterio3XTER   XTER        0.25         11.13%
-2025-06-01                      Tutorial4TUT    TUT        0.03         16.89%
-2025-06-01                       Horizen5ZEN    ZEN       10.03         18.15%
+2025-06-02 Trending Top 5 Cryptocurrencies 
+       Date              Name Symbol Price (USD) 24h Change (%)
+2025-06-02 Assisterr AI1ASRR   ASRR        0.29        -12.46%
+2025-06-02       Bitcoin2BTC    BTC   104172.56          0.19%
+2025-06-02   LayerEdge3EDGEN  EDGEN        0.02        -56.17%
+2025-06-02      Ethereum4ETH    ETH     2492.55          0.43%
+2025-06-02 Mask Network5MASK   MASK        2.58         21.54%
