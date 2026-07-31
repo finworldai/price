@@ -1,6 +1,6 @@
 coin	start_price	end_price	change	change_pct
-bitcoin	63090.00	65071.62	1981.62	3.14%
-ethereum	1828.98	1877.84	48.86	2.67%
-solana	74.41	75.90	1.49	2.00%
-binance	560.23	567.25	7.02	1.25%
-dogecoin	0.0719	0.0692	-0.00	-3.71%
+bitcoin	64038.53	64757.32	718.79	1.12%
+ethereum	1853.92	1918.58	64.66	3.49%
+solana	74.11	74.52	0.41	0.55%
+binance	558.10	592.38	34.28	6.14%
+dogecoin	0.0686	0.0706	0.00	2.89%
